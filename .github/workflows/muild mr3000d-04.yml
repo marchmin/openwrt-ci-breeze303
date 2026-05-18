@@ -18,7 +18,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: true
   FIRMWARE_RELEASE: false
-  FIRMWARE_TAG: IPQ50XX-nss
+  FIRMWARE_TAG: mr3000d-04
   TZ: Asia/Shanghai
 
 jobs:
