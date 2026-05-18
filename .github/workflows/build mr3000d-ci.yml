@@ -1,4 +1,4 @@
-name: build IPQ50XX-nss
+name: build mr3000d-ci
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: true
   FIRMWARE_RELEASE: false
-  FIRMWARE_TAG: IPQ50XX-nss
+  FIRMWARE_TAG: mr3000d-ci
   TZ: Asia/Shanghai
 
 jobs:
