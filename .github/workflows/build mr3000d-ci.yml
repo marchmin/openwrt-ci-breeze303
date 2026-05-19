@@ -11,7 +11,7 @@ on:
 
 env:
   REPO_URL: https://github.com/zcop/immortalwrt #https://github.com/marchmin/openwrt-6.x-LiBwrt
-  REPO_BRANCH: main-nss
+  REPO_BRANCH: master
   CONFIG_FILE: configs/zcop_mr3000d-ci.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
