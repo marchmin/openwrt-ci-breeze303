@@ -10,7 +10,7 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/zcop/immortalwrt
+  REPO_URL: https://github.com/marchmin/immortalwrt-zcop
   REPO_BRANCH: master
   CONFIG_FILE: configs/zcop_mr3000d-ci.config
   DIY_SCRIPT: libwrt.sh
