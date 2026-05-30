@@ -12,7 +12,7 @@ on:
 env:
   REPO_URL: https://github.com/marchmin/openwrt-ipq-qosmio/
   REPO_BRANCH: main-nss
-  CONFIG_FILE: configs/ipq_nss.config
+  CONFIG_FILE: configs/zcop_mr3000d-ci.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
   CACHE_TOOLCHAIN: true
