@@ -10,8 +10,8 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/marchmin/openwrt-6.x-LiBwrt-202604
-  REPO_BRANCH: main-nss
+  REPO_URL: https://github.com/marchmin/openwrt-Lienol
+  REPO_BRANCH: 25.12
   CONFIG_FILE: configs/mr3000d-04.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
