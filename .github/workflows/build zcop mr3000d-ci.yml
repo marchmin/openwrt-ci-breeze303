@@ -12,7 +12,7 @@ on:
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master
-  CONFIG_FILE: configs/zcop_mr3000d-ci.config
+  CONFIG_FILE: configs/mr3000d-ci.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
   CACHE_TOOLCHAIN: true
