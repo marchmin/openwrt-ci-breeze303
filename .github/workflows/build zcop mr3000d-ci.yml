@@ -11,7 +11,7 @@ on:
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: master
+  REPO_BRANCH: openwrt-25.12
   CONFIG_FILE: configs/mr3000d-ci.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
